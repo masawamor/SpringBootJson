@@ -1,0 +1,70 @@
+2021-11-02 11:05:32,716 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-02 11:07:41,000 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot:SpringBootJson:0.0.1-SNAPSHOT @ C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\pom.xml.
+2021-11-02 11:07:42,572 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJson/src/main/java
+2021-11-02 11:07:42,574 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJson/src/main/resources
+2021-11-02 11:07:42,590 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJson/src/main/resources
+2021-11-02 11:07:42,617 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJson/src/test/java
+2021-11-02 11:07:44,150 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2021-11-02 11:07:44,155 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-11-02 11:07:44,875 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot:SpringBootJson:0.0.1-SNAPSHOT @ C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\pom.xml.
+2021-11-02 11:07:46,304 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJson/src/main/java
+2021-11-02 11:07:46,305 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJson/src/main/resources
+2021-11-02 11:07:46,306 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJson/src/main/resources
+2021-11-02 11:07:46,307 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJson/src/test/java
+2021-11-02 11:07:47,044 [Worker-9: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-11-02 11:07:48,192 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:07:48,193 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:07:48,201 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-02 11:07:48,254 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:07:48,261 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:07:48,261 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:07:48,261 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
+2021-11-02 11:08:11,496 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:08:11,497 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:08:11,505 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-02 11:08:11,533 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:08:11,540 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:08:11,540 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:08:11,541 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
+2021-11-02 11:08:23,526 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:08:23,527 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:08:23,529 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-02 11:08:23,536 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:08:23,541 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:08:23,541 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:08:23,541 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
+2021-11-02 11:08:50,761 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:08:50,761 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:08:50,762 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-02 11:08:50,768 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:08:50,770 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:08:50,770 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:08:50,771 [Worker-9: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
+2021-11-02 11:09:05,650 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:09:05,650 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:09:05,651 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-02 11:09:05,661 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:09:05,663 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:09:05,664 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:09:05,664 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
+2021-11-02 11:10:40,580 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:10:40,580 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:10:40,581 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:10:40,581 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:10:40,588 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:10:40,588 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:10:40,588 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
+2021-11-02 11:10:55,025 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:10:55,026 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:10:55,030 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-02 11:10:55,055 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:10:55,061 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:10:55,061 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:10:55,062 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
+2021-11-02 11:15:41,978 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:15:41,978 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:15:41,981 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-02 11:15:42,022 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-02 11:15:42,029 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-02 11:15:42,030 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-02 11:15:42,030 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\masawa\Documents\workspace\Java\SpringBoot\SpringBootJson\SpringBootJson\src\test\resources
